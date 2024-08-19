@@ -3,7 +3,7 @@
 echo "Hello      World" #This is other comment!
 echo "Hello World"
 echo "Hello * World"
-echo Hello * World # * as argument is translated to the script name
+echo Hello * World # * represents all the files in Script's Path
 echo Hello      World
 echo "Hello" World
 echo Hello "     " World
